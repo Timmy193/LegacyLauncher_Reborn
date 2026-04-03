@@ -9,3 +9,7 @@ To bypass the minecraft authenticator requirement copy and paste this on the ter
 We have a discord server now!!!
 
 https://discord.gg/yvptwpefyh
+Update as of 03/04/26:
+Discord has been abandoned so if you still want to join i don't mind, the flatpak terminal thing works as of 2026 and will (probably) never be patched, incase if Legacy Launcher stops supporting flatpak i'm dropping a flatpak file for it so you guys can still download it
+Quick note:Do not use the bypass code when TL (Legacy Launcher, not TLauncher) is opened or else it will not work, and do not even try to type it manually, it will not work, just copy and paste it.
+Thats all.
